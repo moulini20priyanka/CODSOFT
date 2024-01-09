@@ -5,7 +5,7 @@ BATCH- Dec Batch A24
 
 TASK1_MOBILE APP SIGN IN FLOW
 
-Screenshot of deign:
+Screenshot of design:
 ![CODSOFT_Task1 image](https://github.com/moulini20priyanka/CODSOFT/assets/119474539/188d4030-09f8-4305-b9b1-061427f86b9f)
 
 video of deign done through figma:
